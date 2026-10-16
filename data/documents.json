@@ -7,7 +7,7 @@
       "createdBy": "users1",
       "createdByName": "เจ้าหน้าที่งานฝ่ายยุทธศาสตร์และแผนงาน",
       "createdAt": "2026-10-16T04:35:26.565Z",
-      "updatedAt": "2026-10-16T04:39:12.376Z",
+      "updatedAt": "2026-10-16T04:57:03.764Z",
       "statuses": {
         "dept-a": {
           "status": "red",
@@ -36,15 +36,24 @@
           "note": ""
         },
         "dept-mvah8vcb1qi6": {
-          "status": "red",
-          "updatedBy": null,
-          "updatedAt": null,
+          "status": "green",
+          "updatedBy": "admin",
+          "updatedByName": "admin วีรพงษ์",
+          "updatedAt": "2026-10-16T04:57:03.757Z",
           "note": ""
         }
       }
     }
   ],
   "auditLog": [
+    {
+      "id": "mvahx4wkk5cj",
+      "timestamp": "2026-10-16T04:57:03.764Z",
+      "user": "admin",
+      "displayName": "admin วีรพงษ์",
+      "action": "update_status",
+      "details": "เปลี่ยนสถานะ [บันทึกข้อความขอใช้งานระบบ dscp-data] ฝ่าย dept-mvah8vcb1qi6 → ดำเนินการแล้ว"
+    },
     {
       "id": "mvaha67s5z3m",
       "timestamp": "2026-10-16T04:39:12.376Z",
