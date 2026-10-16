@@ -15,6 +15,14 @@
       "displayName": "นางภาดี ขุนนนท์",
       "role": "manager",
       "department": null
+    },
+    {
+      "id": "user-mvagvg4ia03u",
+      "username": "Jaturon",
+      "passwordHash": "5b343398c1145c2b7ad7b1305e105f1d53c0389f8fb161d91d6a804ac43e5096",
+      "displayName": "นายจตุรนต์ แสนโซ้ง",
+      "role": "manager",
+      "department": null
     }
   ]
 }
