@@ -1,4 +1,13 @@
 {
   "documents": [],
-  "auditLog": []
+  "auditLog": [
+    {
+      "id": "mvah1y9oyzgx",
+      "timestamp": "2026-10-16T04:32:48.828Z",
+      "user": "admin",
+      "displayName": "admin วีรพงษ์",
+      "action": "create_department",
+      "details": "สร้างฝ่าย: ฝ่ายวิชาการ"
+    }
+  ]
 }
