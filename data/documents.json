@@ -33,11 +33,25 @@
           "updatedBy": null,
           "updatedAt": null,
           "note": ""
+        },
+        "dept-mvah8vcb1qi6": {
+          "status": "red",
+          "updatedBy": null,
+          "updatedAt": null,
+          "note": ""
         }
       }
     }
   ],
   "auditLog": [
+    {
+      "id": "mvah8x817xq2",
+      "timestamp": "2026-10-16T04:38:14.065Z",
+      "user": "admin",
+      "displayName": "admin วีรพงษ์",
+      "action": "create_department",
+      "details": "สร้างฝ่าย: ผู้อำนวยการ"
+    },
     {
       "id": "mvah5u0zbwwi",
       "timestamp": "2026-10-16T04:35:49.955Z",
