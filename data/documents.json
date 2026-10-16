@@ -7,7 +7,7 @@
       "createdBy": "users1",
       "createdByName": "เจ้าหน้าที่งานฝ่ายยุทธศาสตร์และแผนงาน",
       "createdAt": "2026-10-16T04:35:26.565Z",
-      "updatedAt": "2026-10-16T04:35:49.955Z",
+      "updatedAt": "2026-10-16T04:39:12.376Z",
       "statuses": {
         "dept-a": {
           "status": "red",
@@ -23,9 +23,10 @@
           "note": ""
         },
         "dept-c": {
-          "status": "red",
-          "updatedBy": null,
-          "updatedAt": null,
+          "status": "green",
+          "updatedBy": "user3",
+          "updatedByName": "เจ้าหน้าที่ฝ่ายกิจการนักเรียน นักศึกษา",
+          "updatedAt": "2026-10-16T04:39:12.376Z",
           "note": ""
         },
         "dept-mvah1wjk8bqw": {
@@ -44,6 +45,14 @@
     }
   ],
   "auditLog": [
+    {
+      "id": "mvaha67s5z3m",
+      "timestamp": "2026-10-16T04:39:12.376Z",
+      "user": "user3",
+      "displayName": "เจ้าหน้าที่ฝ่ายกิจการนักเรียน นักศึกษา",
+      "action": "update_status",
+      "details": "เปลี่ยนสถานะ [บันทึกข้อความขอใช้งานระบบ dscp-data] ฝ่าย dept-c → ดำเนินการแล้ว"
+    },
     {
       "id": "mvah8x817xq2",
       "timestamp": "2026-10-16T04:38:14.065Z",
