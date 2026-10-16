@@ -23,6 +23,14 @@
       "displayName": "นายจตุรนต์ แสนโซ้ง",
       "role": "manager",
       "department": null
+    },
+    {
+      "id": "user-mvagwbyvpupj",
+      "username": "ChaiJ",
+      "passwordHash": "37cb426fa3551f6466dd000cf62a3fec4765a07e9f9875ac6efff77a4ae83cbd",
+      "displayName": "นายไชย จักรอะโน",
+      "role": "manager",
+      "department": null
     }
   ]
 }
