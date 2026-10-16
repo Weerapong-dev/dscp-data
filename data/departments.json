@@ -1,0 +1,19 @@
+{
+  "departments": [
+    {
+      "id": "dept-a",
+      "name": "ฝ่าย A",
+      "order": 1
+    },
+    {
+      "id": "dept-b",
+      "name": "ฝ่าย B",
+      "order": 2
+    },
+    {
+      "id": "dept-c",
+      "name": "ฝ่าย C",
+      "order": 3
+    }
+  ]
+}
