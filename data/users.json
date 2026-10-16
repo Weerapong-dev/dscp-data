@@ -9,14 +9,6 @@
       "department": null
     },
     {
-      "id": "user-staff-a",
-      "username": "staffa",
-      "passwordHash": "b694ad78c7121561c452bf05e3419560e3e76517cfd37243d95d432b06a3b864",
-      "displayName": "à¹à¸à¹à¸²à¸«à¸à¹à¸²à¸à¸µà¹à¸à¹à¸²à¸¢ A",
-      "role": "staff",
-      "department": "dept-a"
-    },
-    {
       "id": "user-staff-b",
       "username": "staffb",
       "passwordHash": "b694ad78c7121561c452bf05e3419560e3e76517cfd37243d95d432b06a3b864",
