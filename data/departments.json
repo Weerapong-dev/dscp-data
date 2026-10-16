@@ -2,7 +2,7 @@
   "departments": [
     {
       "id": "dept-a",
-      "name": "ฝ่าย A",
+      "name": "ฝ่ายบริหารทรัพยากร",
       "order": 1
     },
     {
