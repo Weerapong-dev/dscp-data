@@ -4,7 +4,7 @@
       "id": "user-admin",
       "username": "admin",
       "passwordHash": "521abf2cbfc65c5ad25fe5755728f197f5bb3f7c2f6215b91df91b73fa71c56e",
-      "displayName": "ผู้ดูแลระบบ",
+      "displayName": "admin วีรพงษ์",
       "role": "admin",
       "department": null
     },
@@ -12,7 +12,7 @@
       "id": "user-manager",
       "username": "manager",
       "passwordHash": "00665cf00be15513f0ad0eaed2dcb8f8c8ad8f0715c315d2968cf6da4b87b65f",
-      "displayName": "ผู้บริหาร",
+      "displayName": "à¸à¸¹à¹à¸à¸£à¸´à¸«à¸²à¸£",
       "role": "manager",
       "department": null
     },
@@ -20,7 +20,7 @@
       "id": "user-staff-a",
       "username": "staffa",
       "passwordHash": "b694ad78c7121561c452bf05e3419560e3e76517cfd37243d95d432b06a3b864",
-      "displayName": "เจ้าหน้าที่ฝ่าย A",
+      "displayName": "à¹à¸à¹à¸²à¸«à¸à¹à¸²à¸à¸µà¹à¸à¹à¸²à¸¢ A",
       "role": "staff",
       "department": "dept-a"
     },
@@ -28,7 +28,7 @@
       "id": "user-staff-b",
       "username": "staffb",
       "passwordHash": "b694ad78c7121561c452bf05e3419560e3e76517cfd37243d95d432b06a3b864",
-      "displayName": "เจ้าหน้าที่ฝ่าย B",
+      "displayName": "à¹à¸à¹à¸²à¸«à¸à¹à¸²à¸à¸µà¹à¸à¹à¸²à¸¢ B",
       "role": "staff",
       "department": "dept-b"
     },
@@ -36,7 +36,7 @@
       "id": "user-staff-c",
       "username": "staffc",
       "passwordHash": "b694ad78c7121561c452bf05e3419560e3e76517cfd37243d95d432b06a3b864",
-      "displayName": "เจ้าหน้าที่ฝ่าย C",
+      "displayName": "à¹à¸à¹à¸²à¸«à¸à¹à¸²à¸à¸µà¹à¸à¹à¸²à¸¢ C",
       "role": "staff",
       "department": "dept-c"
     }
