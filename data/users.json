@@ -31,6 +31,14 @@
       "displayName": "นายไชย จักรอะโน",
       "role": "manager",
       "department": null
+    },
+    {
+      "id": "user-mvagxezovhlq",
+      "username": "users1",
+      "passwordHash": "9807390a43979d0c8c07392390c0cd2e27ae97f5db516ceeef6398775762fb37",
+      "displayName": "เจ้าหน้าที่งานฝ่ายยุทธศาสตร์และแผนงาน",
+      "role": "admin",
+      "department": null
     }
   ]
 }
