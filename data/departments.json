@@ -19,6 +19,11 @@
       "id": "dept-mvah1wjk8bqw",
       "name": "ฝ่ายวิชาการ",
       "order": 4
+    },
+    {
+      "id": "dept-mvah8vcb1qi6",
+      "name": "ผู้อำนวยการ",
+      "order": 5
     }
   ]
 }
