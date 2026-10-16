@@ -71,6 +71,14 @@
       "displayName": "เจ้าหน้าที่งานพัสดุ",
       "role": "staff",
       "department": null
+    },
+    {
+      "id": "user-mvah8kgawtmt",
+      "username": "user6",
+      "passwordHash": "2196dab92e93c9f5907845c628330979992e8489ea660afd11c802210e673ebc",
+      "displayName": "เจ้าหน้าที่งานการเงิน",
+      "role": "staff",
+      "department": null
     }
   ]
 }
