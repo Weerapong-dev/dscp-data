@@ -7,7 +7,7 @@
       "createdBy": "users1",
       "createdByName": "เจ้าหน้าที่งานฝ่ายยุทธศาสตร์และแผนงาน",
       "createdAt": "2026-10-16T04:35:26.565Z",
-      "updatedAt": "2026-10-16T04:35:26.565Z",
+      "updatedAt": "2026-10-16T04:35:49.955Z",
       "statuses": {
         "dept-a": {
           "status": "red",
@@ -16,9 +16,10 @@
           "note": ""
         },
         "dept-b": {
-          "status": "red",
-          "updatedBy": null,
-          "updatedAt": null,
+          "status": "green",
+          "updatedBy": "users1",
+          "updatedByName": "เจ้าหน้าที่งานฝ่ายยุทธศาสตร์และแผนงาน",
+          "updatedAt": "2026-10-16T04:35:49.955Z",
           "note": ""
         },
         "dept-c": {
@@ -37,6 +38,14 @@
     }
   ],
   "auditLog": [
+    {
+      "id": "mvah5u0zbwwi",
+      "timestamp": "2026-10-16T04:35:49.955Z",
+      "user": "users1",
+      "displayName": "เจ้าหน้าที่งานฝ่ายยุทธศาสตร์และแผนงาน",
+      "action": "update_status",
+      "details": "เปลี่ยนสถานะ [บันทึกข้อความขอใช้งานระบบ dscp-data] ฝ่าย dept-b → ดำเนินการแล้ว"
+    },
     {
       "id": "mvah5cev9ipd",
       "timestamp": "2026-10-16T04:35:27.127Z",
