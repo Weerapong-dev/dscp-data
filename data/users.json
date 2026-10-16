@@ -38,7 +38,7 @@
       "passwordHash": "9807390a43979d0c8c07392390c0cd2e27ae97f5db516ceeef6398775762fb37",
       "displayName": "เจ้าหน้าที่งานฝ่ายยุทธศาสตร์และแผนงาน",
       "role": "staff",
-      "department": null
+      "department": "dept-b"
     },
     {
       "id": "user-mvagyzp2unh2",
