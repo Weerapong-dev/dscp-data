@@ -39,6 +39,14 @@
       "displayName": "เจ้าหน้าที่งานฝ่ายยุทธศาสตร์และแผนงาน",
       "role": "staff",
       "department": null
+    },
+    {
+      "id": "user-mvagyzp2unh2",
+      "username": "users2",
+      "passwordHash": "2196dab92e93c9f5907845c628330979992e8489ea660afd11c802210e673ebc",
+      "displayName": "เจ้าหน้าที่ฝ่ายฝ่ายบริหารทรัพยากร",
+      "role": "staff",
+      "department": null
     }
   ]
 }
