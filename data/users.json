@@ -31,6 +31,14 @@
       "displayName": "à¹à¸à¹à¸²à¸«à¸à¹à¸²à¸à¸µà¹à¸à¹à¸²à¸¢ C",
       "role": "staff",
       "department": "dept-c"
+    },
+    {
+      "id": "user-mvagrzl9vxqa",
+      "username": "Director",
+      "passwordHash": "0555a084bcacf6dca14fc2acc923269630403fae4cd8837e64610a895c2e6122",
+      "displayName": "นางภาดี ขุนนนท์",
+      "role": "manager",
+      "department": null
     }
   ]
 }
